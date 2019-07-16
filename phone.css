@@ -1,7 +1,7 @@
 button{width: 130px; height: 50px; margin-left: 3px; margin-top: 2px; border:1px solid green}
 ul {list-style-type:none; margin:0; padding:0}
 li {margin:0; padding:0}
-.listbutton{width: 130px; height: 25px; margin-left: 3px; margin-top: 4px; border:none}
+.listbutton{width: auto; height: 25px; margin-left: 3px; margin-top: 4px; border:none}
 .tabBtn{border:none; width:155px; margin-left: -4px;    margin-right: -1px; }
 .tabBtn:hover {     background-color: brown;  }
 #root{width:600px}
